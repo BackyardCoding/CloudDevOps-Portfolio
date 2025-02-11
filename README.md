@@ -1,5 +1,5 @@
 # CloudDevOps-Portfolio
-This respository demonstrates the Cloud DevOps skills of MDumbuya.  The development of this project is ongoing. 
+This respository demonstrates the Cloud DevOps skills of BackyardCoding.  The development of this project is ongoing. 
 
 ## Description 
 The depicted code of the repository was developed as part of Udactity Nanodegree _Cloud DevOps Engineer_ program. 
